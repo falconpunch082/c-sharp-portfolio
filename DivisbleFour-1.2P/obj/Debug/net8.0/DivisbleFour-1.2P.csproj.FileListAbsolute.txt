@@ -1,0 +1,14 @@
+D:\Deakin Programs\sit232\DivisbleFour-1.2P\bin\Debug\net8.0\DivisbleFour-1.2P.exe
+D:\Deakin Programs\sit232\DivisbleFour-1.2P\bin\Debug\net8.0\DivisbleFour-1.2P.deps.json
+D:\Deakin Programs\sit232\DivisbleFour-1.2P\bin\Debug\net8.0\DivisbleFour-1.2P.runtimeconfig.json
+D:\Deakin Programs\sit232\DivisbleFour-1.2P\bin\Debug\net8.0\DivisbleFour-1.2P.dll
+D:\Deakin Programs\sit232\DivisbleFour-1.2P\bin\Debug\net8.0\DivisbleFour-1.2P.pdb
+D:\Deakin Programs\sit232\DivisbleFour-1.2P\obj\Debug\net8.0\DivisbleFour-1.2P.GeneratedMSBuildEditorConfig.editorconfig
+D:\Deakin Programs\sit232\DivisbleFour-1.2P\obj\Debug\net8.0\DivisbleFour-1.2P.AssemblyInfoInputs.cache
+D:\Deakin Programs\sit232\DivisbleFour-1.2P\obj\Debug\net8.0\DivisbleFour-1.2P.AssemblyInfo.cs
+D:\Deakin Programs\sit232\DivisbleFour-1.2P\obj\Debug\net8.0\DivisbleFour-1.2P.csproj.CoreCompileInputs.cache
+D:\Deakin Programs\sit232\DivisbleFour-1.2P\obj\Debug\net8.0\DivisbleFour-1.2P.dll
+D:\Deakin Programs\sit232\DivisbleFour-1.2P\obj\Debug\net8.0\refint\DivisbleFour-1.2P.dll
+D:\Deakin Programs\sit232\DivisbleFour-1.2P\obj\Debug\net8.0\DivisbleFour-1.2P.pdb
+D:\Deakin Programs\sit232\DivisbleFour-1.2P\obj\Debug\net8.0\DivisbleFour-1.2P.genruntimeconfig.cache
+D:\Deakin Programs\sit232\DivisbleFour-1.2P\obj\Debug\net8.0\ref\DivisbleFour-1.2P.dll

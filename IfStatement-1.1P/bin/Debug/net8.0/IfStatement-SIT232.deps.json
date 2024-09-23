@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "IfStatement-SIT232/1.0.0": {
+        "runtime": {
+          "IfStatement-SIT232.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "IfStatement-SIT232/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

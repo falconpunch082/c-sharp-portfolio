@@ -1,0 +1,14 @@
+D:\Deakin Programs\sit232\SwitchStatement\bin\Debug\net8.0\SwitchStatement.exe
+D:\Deakin Programs\sit232\SwitchStatement\bin\Debug\net8.0\SwitchStatement.deps.json
+D:\Deakin Programs\sit232\SwitchStatement\bin\Debug\net8.0\SwitchStatement.runtimeconfig.json
+D:\Deakin Programs\sit232\SwitchStatement\bin\Debug\net8.0\SwitchStatement.dll
+D:\Deakin Programs\sit232\SwitchStatement\bin\Debug\net8.0\SwitchStatement.pdb
+D:\Deakin Programs\sit232\SwitchStatement\obj\Debug\net8.0\SwitchStatement.GeneratedMSBuildEditorConfig.editorconfig
+D:\Deakin Programs\sit232\SwitchStatement\obj\Debug\net8.0\SwitchStatement.AssemblyInfoInputs.cache
+D:\Deakin Programs\sit232\SwitchStatement\obj\Debug\net8.0\SwitchStatement.AssemblyInfo.cs
+D:\Deakin Programs\sit232\SwitchStatement\obj\Debug\net8.0\SwitchStatement.csproj.CoreCompileInputs.cache
+D:\Deakin Programs\sit232\SwitchStatement\obj\Debug\net8.0\SwitchStatement.dll
+D:\Deakin Programs\sit232\SwitchStatement\obj\Debug\net8.0\refint\SwitchStatement.dll
+D:\Deakin Programs\sit232\SwitchStatement\obj\Debug\net8.0\SwitchStatement.pdb
+D:\Deakin Programs\sit232\SwitchStatement\obj\Debug\net8.0\SwitchStatement.genruntimeconfig.cache
+D:\Deakin Programs\sit232\SwitchStatement\obj\Debug\net8.0\ref\SwitchStatement.dll

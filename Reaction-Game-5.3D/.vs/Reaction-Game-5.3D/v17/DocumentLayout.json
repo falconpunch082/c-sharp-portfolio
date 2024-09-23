@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Deakin Programs\\sit232\\Reaction-Game-5.3D\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9470ABE4-09EE-4E49-A87A-99A74506E586}|Reaction-Game-5.3D.csproj|d:\\deakin programs\\sit232\\reaction-game-5.3d\\simplereactioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9470ABE4-09EE-4E49-A87A-99A74506E586}|Reaction-Game-5.3D.csproj|solutionrelative:simplereactioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9470ABE4-09EE-4E49-A87A-99A74506E586}|Reaction-Game-5.3D.csproj|d:\\deakin programs\\sit232\\reaction-game-5.3d\\irandom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9470ABE4-09EE-4E49-A87A-99A74506E586}|Reaction-Game-5.3D.csproj|solutionrelative:irandom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9470ABE4-09EE-4E49-A87A-99A74506E586}|Reaction-Game-5.3D.csproj|d:\\deakin programs\\sit232\\reaction-game-5.3d\\igui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9470ABE4-09EE-4E49-A87A-99A74506E586}|Reaction-Game-5.3D.csproj|solutionrelative:igui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9470ABE4-09EE-4E49-A87A-99A74506E586}|Reaction-Game-5.3D.csproj|d:\\deakin programs\\sit232\\reaction-game-5.3d\\icontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9470ABE4-09EE-4E49-A87A-99A74506E586}|Reaction-Game-5.3D.csproj|solutionrelative:icontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SimpleReactionController.cs",
+              "DocumentMoniker": "D:\\Deakin Programs\\sit232\\Reaction-Game-5.3D\\SimpleReactionController.cs",
+              "RelativeDocumentMoniker": "SimpleReactionController.cs",
+              "ToolTip": "D:\\Deakin Programs\\sit232\\Reaction-Game-5.3D\\SimpleReactionController.cs",
+              "RelativeToolTip": "SimpleReactionController.cs",
+              "ViewState": "AQIAAKwAAAAAAAAAAAAswAYAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T03:09:53.976Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IRandom.cs",
+              "DocumentMoniker": "D:\\Deakin Programs\\sit232\\Reaction-Game-5.3D\\IRandom.cs",
+              "RelativeDocumentMoniker": "IRandom.cs",
+              "ToolTip": "D:\\Deakin Programs\\sit232\\Reaction-Game-5.3D\\IRandom.cs",
+              "RelativeToolTip": "IRandom.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T03:44:43.744Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IGui.cs",
+              "DocumentMoniker": "D:\\Deakin Programs\\sit232\\Reaction-Game-5.3D\\IGui.cs",
+              "RelativeDocumentMoniker": "IGui.cs",
+              "ToolTip": "D:\\Deakin Programs\\sit232\\Reaction-Game-5.3D\\IGui.cs",
+              "RelativeToolTip": "IGui.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T03:44:43.078Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IController.cs",
+              "DocumentMoniker": "D:\\Deakin Programs\\sit232\\Reaction-Game-5.3D\\IController.cs",
+              "RelativeDocumentMoniker": "IController.cs",
+              "ToolTip": "D:\\Deakin Programs\\sit232\\Reaction-Game-5.3D\\IController.cs",
+              "RelativeToolTip": "IController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T03:44:42.432Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

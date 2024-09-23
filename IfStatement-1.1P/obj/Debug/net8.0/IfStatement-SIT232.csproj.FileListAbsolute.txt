@@ -1,0 +1,14 @@
+D:\Deakin Programs\sit232\IfStatement-SIT232\bin\Debug\net8.0\IfStatement-SIT232.exe
+D:\Deakin Programs\sit232\IfStatement-SIT232\bin\Debug\net8.0\IfStatement-SIT232.deps.json
+D:\Deakin Programs\sit232\IfStatement-SIT232\bin\Debug\net8.0\IfStatement-SIT232.runtimeconfig.json
+D:\Deakin Programs\sit232\IfStatement-SIT232\bin\Debug\net8.0\IfStatement-SIT232.dll
+D:\Deakin Programs\sit232\IfStatement-SIT232\bin\Debug\net8.0\IfStatement-SIT232.pdb
+D:\Deakin Programs\sit232\IfStatement-SIT232\obj\Debug\net8.0\IfStatement-SIT232.GeneratedMSBuildEditorConfig.editorconfig
+D:\Deakin Programs\sit232\IfStatement-SIT232\obj\Debug\net8.0\IfStatement-SIT232.AssemblyInfoInputs.cache
+D:\Deakin Programs\sit232\IfStatement-SIT232\obj\Debug\net8.0\IfStatement-SIT232.AssemblyInfo.cs
+D:\Deakin Programs\sit232\IfStatement-SIT232\obj\Debug\net8.0\IfStatement-SIT232.csproj.CoreCompileInputs.cache
+D:\Deakin Programs\sit232\IfStatement-SIT232\obj\Debug\net8.0\IfStatement-SIT232.dll
+D:\Deakin Programs\sit232\IfStatement-SIT232\obj\Debug\net8.0\refint\IfStatement-SIT232.dll
+D:\Deakin Programs\sit232\IfStatement-SIT232\obj\Debug\net8.0\IfStatement-SIT232.pdb
+D:\Deakin Programs\sit232\IfStatement-SIT232\obj\Debug\net8.0\IfStatement-SIT232.genruntimeconfig.cache
+D:\Deakin Programs\sit232\IfStatement-SIT232\obj\Debug\net8.0\ref\IfStatement-SIT232.dll

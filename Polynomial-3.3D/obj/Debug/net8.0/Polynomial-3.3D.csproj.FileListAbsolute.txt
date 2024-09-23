@@ -1,0 +1,28 @@
+C:\Users\dalet\source\repos\Polynomial-3.3D\bin\Debug\net8.0\Polynomial-3.3D.exe
+C:\Users\dalet\source\repos\Polynomial-3.3D\bin\Debug\net8.0\Polynomial-3.3D.deps.json
+C:\Users\dalet\source\repos\Polynomial-3.3D\bin\Debug\net8.0\Polynomial-3.3D.runtimeconfig.json
+C:\Users\dalet\source\repos\Polynomial-3.3D\bin\Debug\net8.0\Polynomial-3.3D.dll
+C:\Users\dalet\source\repos\Polynomial-3.3D\bin\Debug\net8.0\Polynomial-3.3D.pdb
+C:\Users\dalet\source\repos\Polynomial-3.3D\obj\Debug\net8.0\Polynomial-3.3D.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dalet\source\repos\Polynomial-3.3D\obj\Debug\net8.0\Polynomial-3.3D.AssemblyInfoInputs.cache
+C:\Users\dalet\source\repos\Polynomial-3.3D\obj\Debug\net8.0\Polynomial-3.3D.AssemblyInfo.cs
+C:\Users\dalet\source\repos\Polynomial-3.3D\obj\Debug\net8.0\Polynomial-3.3D.csproj.CoreCompileInputs.cache
+C:\Users\dalet\source\repos\Polynomial-3.3D\obj\Debug\net8.0\Polynomial-3.3D.dll
+C:\Users\dalet\source\repos\Polynomial-3.3D\obj\Debug\net8.0\refint\Polynomial-3.3D.dll
+C:\Users\dalet\source\repos\Polynomial-3.3D\obj\Debug\net8.0\Polynomial-3.3D.pdb
+C:\Users\dalet\source\repos\Polynomial-3.3D\obj\Debug\net8.0\Polynomial-3.3D.genruntimeconfig.cache
+C:\Users\dalet\source\repos\Polynomial-3.3D\obj\Debug\net8.0\ref\Polynomial-3.3D.dll
+D:\Deakin Programs\sit232\Polynomial-3.3D\bin\Debug\net8.0\Polynomial-3.3D.exe
+D:\Deakin Programs\sit232\Polynomial-3.3D\bin\Debug\net8.0\Polynomial-3.3D.deps.json
+D:\Deakin Programs\sit232\Polynomial-3.3D\bin\Debug\net8.0\Polynomial-3.3D.runtimeconfig.json
+D:\Deakin Programs\sit232\Polynomial-3.3D\bin\Debug\net8.0\Polynomial-3.3D.dll
+D:\Deakin Programs\sit232\Polynomial-3.3D\bin\Debug\net8.0\Polynomial-3.3D.pdb
+D:\Deakin Programs\sit232\Polynomial-3.3D\obj\Debug\net8.0\Polynomial-3.3D.GeneratedMSBuildEditorConfig.editorconfig
+D:\Deakin Programs\sit232\Polynomial-3.3D\obj\Debug\net8.0\Polynomial-3.3D.AssemblyInfoInputs.cache
+D:\Deakin Programs\sit232\Polynomial-3.3D\obj\Debug\net8.0\Polynomial-3.3D.AssemblyInfo.cs
+D:\Deakin Programs\sit232\Polynomial-3.3D\obj\Debug\net8.0\Polynomial-3.3D.csproj.CoreCompileInputs.cache
+D:\Deakin Programs\sit232\Polynomial-3.3D\obj\Debug\net8.0\Polynomial-3.3D.dll
+D:\Deakin Programs\sit232\Polynomial-3.3D\obj\Debug\net8.0\refint\Polynomial-3.3D.dll
+D:\Deakin Programs\sit232\Polynomial-3.3D\obj\Debug\net8.0\Polynomial-3.3D.pdb
+D:\Deakin Programs\sit232\Polynomial-3.3D\obj\Debug\net8.0\Polynomial-3.3D.genruntimeconfig.cache
+D:\Deakin Programs\sit232\Polynomial-3.3D\obj\Debug\net8.0\ref\Polynomial-3.3D.dll

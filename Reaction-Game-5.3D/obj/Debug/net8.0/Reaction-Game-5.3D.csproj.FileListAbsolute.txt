@@ -1,0 +1,14 @@
+D:\Deakin Programs\sit232\Reaction-Game-5.3D\obj\Debug\net8.0\Reaction-Game-5.3D.GeneratedMSBuildEditorConfig.editorconfig
+D:\Deakin Programs\sit232\Reaction-Game-5.3D\obj\Debug\net8.0\Reaction-Game-5.3D.AssemblyInfoInputs.cache
+D:\Deakin Programs\sit232\Reaction-Game-5.3D\obj\Debug\net8.0\Reaction-Game-5.3D.AssemblyInfo.cs
+D:\Deakin Programs\sit232\Reaction-Game-5.3D\obj\Debug\net8.0\Reaction-Game-5.3D.csproj.CoreCompileInputs.cache
+D:\Deakin Programs\sit232\Reaction-Game-5.3D\bin\Debug\net8.0\Reaction-Game-5.3D.exe
+D:\Deakin Programs\sit232\Reaction-Game-5.3D\bin\Debug\net8.0\Reaction-Game-5.3D.deps.json
+D:\Deakin Programs\sit232\Reaction-Game-5.3D\bin\Debug\net8.0\Reaction-Game-5.3D.runtimeconfig.json
+D:\Deakin Programs\sit232\Reaction-Game-5.3D\bin\Debug\net8.0\Reaction-Game-5.3D.dll
+D:\Deakin Programs\sit232\Reaction-Game-5.3D\bin\Debug\net8.0\Reaction-Game-5.3D.pdb
+D:\Deakin Programs\sit232\Reaction-Game-5.3D\obj\Debug\net8.0\Reaction-Game-5.3D.dll
+D:\Deakin Programs\sit232\Reaction-Game-5.3D\obj\Debug\net8.0\refint\Reaction-Game-5.3D.dll
+D:\Deakin Programs\sit232\Reaction-Game-5.3D\obj\Debug\net8.0\Reaction-Game-5.3D.pdb
+D:\Deakin Programs\sit232\Reaction-Game-5.3D\obj\Debug\net8.0\Reaction-Game-5.3D.genruntimeconfig.cache
+D:\Deakin Programs\sit232\Reaction-Game-5.3D\obj\Debug\net8.0\ref\Reaction-Game-5.3D.dll

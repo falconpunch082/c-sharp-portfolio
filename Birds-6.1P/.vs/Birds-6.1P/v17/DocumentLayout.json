@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Deakin Programs\\sit232\\Birds-6.1P\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B26F531B-F803-4977-8D80-9CF2D1CFFE0F}|Birds-6.1P.csproj|d:\\deakin programs\\sit232\\birds-6.1p\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B26F531B-F803-4977-8D80-9CF2D1CFFE0F}|Birds-6.1P.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B26F531B-F803-4977-8D80-9CF2D1CFFE0F}|Birds-6.1P.csproj|d:\\deakin programs\\sit232\\birds-6.1p\\bird.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B26F531B-F803-4977-8D80-9CF2D1CFFE0F}|Birds-6.1P.csproj|solutionrelative:bird.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Bird.cs",
+              "DocumentMoniker": "D:\\Deakin Programs\\sit232\\Birds-6.1P\\Bird.cs",
+              "RelativeDocumentMoniker": "Bird.cs",
+              "ToolTip": "D:\\Deakin Programs\\sit232\\Birds-6.1P\\Bird.cs",
+              "RelativeToolTip": "Bird.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAIwDIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-21T05:28:07.261Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Deakin Programs\\sit232\\Birds-6.1P\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Deakin Programs\\sit232\\Birds-6.1P\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADMAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-21T05:27:40.807Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

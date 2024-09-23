@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Deakin Programs\\sit232\\Polynomial-3.3D\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F37D8CEA-1142-4BA7-9A78-A827C5CB7ECA}|Polynomial-3.3D.csproj|d:\\deakin programs\\sit232\\polynomial-3.3d\\testmypolynomial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F37D8CEA-1142-4BA7-9A78-A827C5CB7ECA}|Polynomial-3.3D.csproj|solutionrelative:testmypolynomial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F37D8CEA-1142-4BA7-9A78-A827C5CB7ECA}|Polynomial-3.3D.csproj|d:\\deakin programs\\sit232\\polynomial-3.3d\\mypolynomial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F37D8CEA-1142-4BA7-9A78-A827C5CB7ECA}|Polynomial-3.3D.csproj|solutionrelative:mypolynomial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MyPolynomial.cs",
+              "DocumentMoniker": "D:\\Deakin Programs\\sit232\\Polynomial-3.3D\\MyPolynomial.cs",
+              "RelativeDocumentMoniker": "MyPolynomial.cs",
+              "ToolTip": "D:\\Deakin Programs\\sit232\\Polynomial-3.3D\\MyPolynomial.cs",
+              "RelativeToolTip": "MyPolynomial.cs",
+              "ViewState": "AQIAAD0AAAAAAAAAAAAcwFgAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T03:40:03.063Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TestMyPolynomial.cs",
+              "DocumentMoniker": "D:\\Deakin Programs\\sit232\\Polynomial-3.3D\\TestMyPolynomial.cs",
+              "RelativeDocumentMoniker": "TestMyPolynomial.cs",
+              "ToolTip": "D:\\Deakin Programs\\sit232\\Polynomial-3.3D\\TestMyPolynomial.cs",
+              "RelativeToolTip": "TestMyPolynomial.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAABWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T03:37:59.917Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

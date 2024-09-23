@@ -1,0 +1,14 @@
+D:\Deakin Programs\sit232\MyDate-2.3C\bin\Debug\net8.0\MyDate-2.3C.exe
+D:\Deakin Programs\sit232\MyDate-2.3C\bin\Debug\net8.0\MyDate-2.3C.deps.json
+D:\Deakin Programs\sit232\MyDate-2.3C\bin\Debug\net8.0\MyDate-2.3C.runtimeconfig.json
+D:\Deakin Programs\sit232\MyDate-2.3C\bin\Debug\net8.0\MyDate-2.3C.dll
+D:\Deakin Programs\sit232\MyDate-2.3C\bin\Debug\net8.0\MyDate-2.3C.pdb
+D:\Deakin Programs\sit232\MyDate-2.3C\obj\Debug\net8.0\MyDate-2.3C.GeneratedMSBuildEditorConfig.editorconfig
+D:\Deakin Programs\sit232\MyDate-2.3C\obj\Debug\net8.0\MyDate-2.3C.AssemblyInfoInputs.cache
+D:\Deakin Programs\sit232\MyDate-2.3C\obj\Debug\net8.0\MyDate-2.3C.AssemblyInfo.cs
+D:\Deakin Programs\sit232\MyDate-2.3C\obj\Debug\net8.0\MyDate-2.3C.csproj.CoreCompileInputs.cache
+D:\Deakin Programs\sit232\MyDate-2.3C\obj\Debug\net8.0\MyDate-2.3C.dll
+D:\Deakin Programs\sit232\MyDate-2.3C\obj\Debug\net8.0\refint\MyDate-2.3C.dll
+D:\Deakin Programs\sit232\MyDate-2.3C\obj\Debug\net8.0\MyDate-2.3C.pdb
+D:\Deakin Programs\sit232\MyDate-2.3C\obj\Debug\net8.0\MyDate-2.3C.genruntimeconfig.cache
+D:\Deakin Programs\sit232\MyDate-2.3C\obj\Debug\net8.0\ref\MyDate-2.3C.dll

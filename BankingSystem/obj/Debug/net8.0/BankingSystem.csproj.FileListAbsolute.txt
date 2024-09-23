@@ -1,0 +1,14 @@
+D:\Deakin Programs\sit232\BankingSystem\bin\Debug\net8.0\BankingSystem.exe
+D:\Deakin Programs\sit232\BankingSystem\bin\Debug\net8.0\BankingSystem.deps.json
+D:\Deakin Programs\sit232\BankingSystem\bin\Debug\net8.0\BankingSystem.runtimeconfig.json
+D:\Deakin Programs\sit232\BankingSystem\bin\Debug\net8.0\BankingSystem.dll
+D:\Deakin Programs\sit232\BankingSystem\bin\Debug\net8.0\BankingSystem.pdb
+D:\Deakin Programs\sit232\BankingSystem\obj\Debug\net8.0\BankingSystem.GeneratedMSBuildEditorConfig.editorconfig
+D:\Deakin Programs\sit232\BankingSystem\obj\Debug\net8.0\BankingSystem.AssemblyInfoInputs.cache
+D:\Deakin Programs\sit232\BankingSystem\obj\Debug\net8.0\BankingSystem.AssemblyInfo.cs
+D:\Deakin Programs\sit232\BankingSystem\obj\Debug\net8.0\BankingSystem.csproj.CoreCompileInputs.cache
+D:\Deakin Programs\sit232\BankingSystem\obj\Debug\net8.0\BankingSystem.dll
+D:\Deakin Programs\sit232\BankingSystem\obj\Debug\net8.0\refint\BankingSystem.dll
+D:\Deakin Programs\sit232\BankingSystem\obj\Debug\net8.0\BankingSystem.pdb
+D:\Deakin Programs\sit232\BankingSystem\obj\Debug\net8.0\BankingSystem.genruntimeconfig.cache
+D:\Deakin Programs\sit232\BankingSystem\obj\Debug\net8.0\ref\BankingSystem.dll

@@ -1,0 +1,14 @@
+D:\Deakin Programs\sit232\LambdaGenerics-8.1C\bin\Debug\net8.0\LambdaGenerics-8.1C.exe
+D:\Deakin Programs\sit232\LambdaGenerics-8.1C\bin\Debug\net8.0\LambdaGenerics-8.1C.deps.json
+D:\Deakin Programs\sit232\LambdaGenerics-8.1C\bin\Debug\net8.0\LambdaGenerics-8.1C.runtimeconfig.json
+D:\Deakin Programs\sit232\LambdaGenerics-8.1C\bin\Debug\net8.0\LambdaGenerics-8.1C.dll
+D:\Deakin Programs\sit232\LambdaGenerics-8.1C\bin\Debug\net8.0\LambdaGenerics-8.1C.pdb
+D:\Deakin Programs\sit232\LambdaGenerics-8.1C\obj\Debug\net8.0\LambdaGenerics-8.1C.GeneratedMSBuildEditorConfig.editorconfig
+D:\Deakin Programs\sit232\LambdaGenerics-8.1C\obj\Debug\net8.0\LambdaGenerics-8.1C.AssemblyInfoInputs.cache
+D:\Deakin Programs\sit232\LambdaGenerics-8.1C\obj\Debug\net8.0\LambdaGenerics-8.1C.AssemblyInfo.cs
+D:\Deakin Programs\sit232\LambdaGenerics-8.1C\obj\Debug\net8.0\LambdaGenerics-8.1C.csproj.CoreCompileInputs.cache
+D:\Deakin Programs\sit232\LambdaGenerics-8.1C\obj\Debug\net8.0\LambdaGenerics-8.1C.dll
+D:\Deakin Programs\sit232\LambdaGenerics-8.1C\obj\Debug\net8.0\refint\LambdaGenerics-8.1C.dll
+D:\Deakin Programs\sit232\LambdaGenerics-8.1C\obj\Debug\net8.0\LambdaGenerics-8.1C.pdb
+D:\Deakin Programs\sit232\LambdaGenerics-8.1C\obj\Debug\net8.0\LambdaGenerics-8.1C.genruntimeconfig.cache
+D:\Deakin Programs\sit232\LambdaGenerics-8.1C\obj\Debug\net8.0\ref\LambdaGenerics-8.1C.dll

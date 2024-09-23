@@ -1,0 +1,14 @@
+D:\Deakin Programs\sit232\BuggySoft-4.2C\bin\Debug\net8.0\BuggySoft-4.2C.exe
+D:\Deakin Programs\sit232\BuggySoft-4.2C\bin\Debug\net8.0\BuggySoft-4.2C.deps.json
+D:\Deakin Programs\sit232\BuggySoft-4.2C\bin\Debug\net8.0\BuggySoft-4.2C.runtimeconfig.json
+D:\Deakin Programs\sit232\BuggySoft-4.2C\bin\Debug\net8.0\BuggySoft-4.2C.dll
+D:\Deakin Programs\sit232\BuggySoft-4.2C\bin\Debug\net8.0\BuggySoft-4.2C.pdb
+D:\Deakin Programs\sit232\BuggySoft-4.2C\obj\Debug\net8.0\BuggySoft-4.2C.GeneratedMSBuildEditorConfig.editorconfig
+D:\Deakin Programs\sit232\BuggySoft-4.2C\obj\Debug\net8.0\BuggySoft-4.2C.AssemblyInfoInputs.cache
+D:\Deakin Programs\sit232\BuggySoft-4.2C\obj\Debug\net8.0\BuggySoft-4.2C.AssemblyInfo.cs
+D:\Deakin Programs\sit232\BuggySoft-4.2C\obj\Debug\net8.0\BuggySoft-4.2C.csproj.CoreCompileInputs.cache
+D:\Deakin Programs\sit232\BuggySoft-4.2C\obj\Debug\net8.0\BuggySoft-4.2C.dll
+D:\Deakin Programs\sit232\BuggySoft-4.2C\obj\Debug\net8.0\refint\BuggySoft-4.2C.dll
+D:\Deakin Programs\sit232\BuggySoft-4.2C\obj\Debug\net8.0\BuggySoft-4.2C.pdb
+D:\Deakin Programs\sit232\BuggySoft-4.2C\obj\Debug\net8.0\BuggySoft-4.2C.genruntimeconfig.cache
+D:\Deakin Programs\sit232\BuggySoft-4.2C\obj\Debug\net8.0\ref\BuggySoft-4.2C.dll

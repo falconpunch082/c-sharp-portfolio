@@ -1,0 +1,14 @@
+D:\Deakin Programs\sit232\Animals-6.2P\bin\Debug\net8.0\Animals-6.2P.exe
+D:\Deakin Programs\sit232\Animals-6.2P\bin\Debug\net8.0\Animals-6.2P.deps.json
+D:\Deakin Programs\sit232\Animals-6.2P\bin\Debug\net8.0\Animals-6.2P.runtimeconfig.json
+D:\Deakin Programs\sit232\Animals-6.2P\bin\Debug\net8.0\Animals-6.2P.dll
+D:\Deakin Programs\sit232\Animals-6.2P\bin\Debug\net8.0\Animals-6.2P.pdb
+D:\Deakin Programs\sit232\Animals-6.2P\obj\Debug\net8.0\Animals-6.2P.GeneratedMSBuildEditorConfig.editorconfig
+D:\Deakin Programs\sit232\Animals-6.2P\obj\Debug\net8.0\Animals-6.2P.AssemblyInfoInputs.cache
+D:\Deakin Programs\sit232\Animals-6.2P\obj\Debug\net8.0\Animals-6.2P.AssemblyInfo.cs
+D:\Deakin Programs\sit232\Animals-6.2P\obj\Debug\net8.0\Animals-6.2P.csproj.CoreCompileInputs.cache
+D:\Deakin Programs\sit232\Animals-6.2P\obj\Debug\net8.0\Animals-6.2P.dll
+D:\Deakin Programs\sit232\Animals-6.2P\obj\Debug\net8.0\refint\Animals-6.2P.dll
+D:\Deakin Programs\sit232\Animals-6.2P\obj\Debug\net8.0\Animals-6.2P.pdb
+D:\Deakin Programs\sit232\Animals-6.2P\obj\Debug\net8.0\Animals-6.2P.genruntimeconfig.cache
+D:\Deakin Programs\sit232\Animals-6.2P\obj\Debug\net8.0\ref\Animals-6.2P.dll

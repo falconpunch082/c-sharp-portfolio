@@ -1,0 +1,14 @@
+D:\Deakin Programs\sit232\Microwave\bin\Debug\net8.0\Microwave.exe
+D:\Deakin Programs\sit232\Microwave\bin\Debug\net8.0\Microwave.deps.json
+D:\Deakin Programs\sit232\Microwave\bin\Debug\net8.0\Microwave.runtimeconfig.json
+D:\Deakin Programs\sit232\Microwave\bin\Debug\net8.0\Microwave.dll
+D:\Deakin Programs\sit232\Microwave\bin\Debug\net8.0\Microwave.pdb
+D:\Deakin Programs\sit232\Microwave\obj\Debug\net8.0\Microwave.GeneratedMSBuildEditorConfig.editorconfig
+D:\Deakin Programs\sit232\Microwave\obj\Debug\net8.0\Microwave.AssemblyInfoInputs.cache
+D:\Deakin Programs\sit232\Microwave\obj\Debug\net8.0\Microwave.AssemblyInfo.cs
+D:\Deakin Programs\sit232\Microwave\obj\Debug\net8.0\Microwave.csproj.CoreCompileInputs.cache
+D:\Deakin Programs\sit232\Microwave\obj\Debug\net8.0\Microwave.dll
+D:\Deakin Programs\sit232\Microwave\obj\Debug\net8.0\refint\Microwave.dll
+D:\Deakin Programs\sit232\Microwave\obj\Debug\net8.0\Microwave.pdb
+D:\Deakin Programs\sit232\Microwave\obj\Debug\net8.0\Microwave.genruntimeconfig.cache
+D:\Deakin Programs\sit232\Microwave\obj\Debug\net8.0\ref\Microwave.dll

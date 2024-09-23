@@ -1,0 +1,14 @@
+D:\Deakin Programs\sit232\Employee-2.1P\bin\Debug\net8.0\Employee-2.1P.exe
+D:\Deakin Programs\sit232\Employee-2.1P\bin\Debug\net8.0\Employee-2.1P.deps.json
+D:\Deakin Programs\sit232\Employee-2.1P\bin\Debug\net8.0\Employee-2.1P.runtimeconfig.json
+D:\Deakin Programs\sit232\Employee-2.1P\bin\Debug\net8.0\Employee-2.1P.dll
+D:\Deakin Programs\sit232\Employee-2.1P\bin\Debug\net8.0\Employee-2.1P.pdb
+D:\Deakin Programs\sit232\Employee-2.1P\obj\Debug\net8.0\Employee-2.1P.GeneratedMSBuildEditorConfig.editorconfig
+D:\Deakin Programs\sit232\Employee-2.1P\obj\Debug\net8.0\Employee-2.1P.AssemblyInfoInputs.cache
+D:\Deakin Programs\sit232\Employee-2.1P\obj\Debug\net8.0\Employee-2.1P.AssemblyInfo.cs
+D:\Deakin Programs\sit232\Employee-2.1P\obj\Debug\net8.0\Employee-2.1P.csproj.CoreCompileInputs.cache
+D:\Deakin Programs\sit232\Employee-2.1P\obj\Debug\net8.0\Employee-2.1P.dll
+D:\Deakin Programs\sit232\Employee-2.1P\obj\Debug\net8.0\refint\Employee-2.1P.dll
+D:\Deakin Programs\sit232\Employee-2.1P\obj\Debug\net8.0\Employee-2.1P.pdb
+D:\Deakin Programs\sit232\Employee-2.1P\obj\Debug\net8.0\Employee-2.1P.genruntimeconfig.cache
+D:\Deakin Programs\sit232\Employee-2.1P\obj\Debug\net8.0\ref\Employee-2.1P.dll

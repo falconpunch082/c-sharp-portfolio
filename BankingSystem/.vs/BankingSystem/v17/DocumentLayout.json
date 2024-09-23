@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Deakin Programs\\sit232\\BankingSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2E0E035-99E5-4998-8304-B97275E5C673}|BankingSystem.csproj|d:\\deakin programs\\sit232\\bankingsystem\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2E0E035-99E5-4998-8304-B97275E5C673}|BankingSystem.csproj|solutionrelative:transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2E0E035-99E5-4998-8304-B97275E5C673}|BankingSystem.csproj|d:\\deakin programs\\sit232\\bankingsystem\\transfertransaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2E0E035-99E5-4998-8304-B97275E5C673}|BankingSystem.csproj|solutionrelative:transfertransaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2E0E035-99E5-4998-8304-B97275E5C673}|BankingSystem.csproj|d:\\deakin programs\\sit232\\bankingsystem\\withdrawtransaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2E0E035-99E5-4998-8304-B97275E5C673}|BankingSystem.csproj|solutionrelative:withdrawtransaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2E0E035-99E5-4998-8304-B97275E5C673}|BankingSystem.csproj|d:\\deakin programs\\sit232\\bankingsystem\\deposittransaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2E0E035-99E5-4998-8304-B97275E5C673}|BankingSystem.csproj|solutionrelative:deposittransaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2E0E035-99E5-4998-8304-B97275E5C673}|BankingSystem.csproj|d:\\deakin programs\\sit232\\bankingsystem\\banksystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2E0E035-99E5-4998-8304-B97275E5C673}|BankingSystem.csproj|solutionrelative:banksystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2E0E035-99E5-4998-8304-B97275E5C673}|BankingSystem.csproj|d:\\deakin programs\\sit232\\bankingsystem\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2E0E035-99E5-4998-8304-B97275E5C673}|BankingSystem.csproj|solutionrelative:account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2E0E035-99E5-4998-8304-B97275E5C673}|BankingSystem.csproj|d:\\deakin programs\\sit232\\bankingsystem\\bank.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2E0E035-99E5-4998-8304-B97275E5C673}|BankingSystem.csproj|solutionrelative:bank.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Account.cs",
+              "DocumentMoniker": "D:\\Deakin Programs\\sit232\\BankingSystem\\Account.cs",
+              "RelativeDocumentMoniker": "Account.cs",
+              "ToolTip": "D:\\Deakin Programs\\sit232\\BankingSystem\\Account.cs",
+              "RelativeToolTip": "Account.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAAIwD4AAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T22:16:08.542Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Bank.cs",
+              "DocumentMoniker": "D:\\Deakin Programs\\sit232\\BankingSystem\\Bank.cs",
+              "RelativeDocumentMoniker": "Bank.cs",
+              "ToolTip": "D:\\Deakin Programs\\sit232\\BankingSystem\\Bank.cs",
+              "RelativeToolTip": "Bank.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAC8AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-21T06:22:05.733Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TransferTransaction.cs",
+              "DocumentMoniker": "D:\\Deakin Programs\\sit232\\BankingSystem\\TransferTransaction.cs",
+              "RelativeDocumentMoniker": "TransferTransaction.cs",
+              "ToolTip": "D:\\Deakin Programs\\sit232\\BankingSystem\\TransferTransaction.cs",
+              "RelativeToolTip": "TransferTransaction.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T12:18:26.984Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WithdrawTransaction.cs",
+              "DocumentMoniker": "D:\\Deakin Programs\\sit232\\BankingSystem\\WithdrawTransaction.cs",
+              "RelativeDocumentMoniker": "WithdrawTransaction.cs",
+              "ToolTip": "D:\\Deakin Programs\\sit232\\BankingSystem\\WithdrawTransaction.cs",
+              "RelativeToolTip": "WithdrawTransaction.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACsAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T12:17:19.325Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DepositTransaction.cs",
+              "DocumentMoniker": "D:\\Deakin Programs\\sit232\\BankingSystem\\DepositTransaction.cs",
+              "RelativeDocumentMoniker": "DepositTransaction.cs",
+              "ToolTip": "D:\\Deakin Programs\\sit232\\BankingSystem\\DepositTransaction.cs",
+              "RelativeToolTip": "DepositTransaction.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwBoAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T12:16:28.431Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BankSystem.cs",
+              "DocumentMoniker": "D:\\Deakin Programs\\sit232\\BankingSystem\\BankSystem.cs",
+              "RelativeDocumentMoniker": "BankSystem.cs",
+              "ToolTip": "D:\\Deakin Programs\\sit232\\BankingSystem\\BankSystem.cs",
+              "RelativeToolTip": "BankSystem.cs",
+              "ViewState": "AQIAAFEBAAAAAAAAAAAYwBMAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T22:15:06.721Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Transaction.cs",
+              "DocumentMoniker": "D:\\Deakin Programs\\sit232\\BankingSystem\\Transaction.cs",
+              "RelativeDocumentMoniker": "Transaction.cs",
+              "ToolTip": "D:\\Deakin Programs\\sit232\\BankingSystem\\Transaction.cs",
+              "RelativeToolTip": "Transaction.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAwAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T11:12:37.895Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

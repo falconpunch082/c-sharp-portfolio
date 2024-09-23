@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Deakin Programs\\sit232\\LambdaGenerics-8.1C\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{354C8E2F-0F34-4BBE-9423-27CC8239CFC6}|LambdaGenerics-8.1C.csproj|d:\\deakin programs\\sit232\\lambdagenerics-8.1c\\tester.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{354C8E2F-0F34-4BBE-9423-27CC8239CFC6}|LambdaGenerics-8.1C.csproj|solutionrelative:tester.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{354C8E2F-0F34-4BBE-9423-27CC8239CFC6}|LambdaGenerics-8.1C.csproj|d:\\deakin programs\\sit232\\lambdagenerics-8.1c\\mystack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{354C8E2F-0F34-4BBE-9423-27CC8239CFC6}|LambdaGenerics-8.1C.csproj|solutionrelative:mystack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{354C8E2F-0F34-4BBE-9423-27CC8239CFC6}|LambdaGenerics-8.1C.csproj|d:\\deakin programs\\sit232\\lambdagenerics-8.1c\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{354C8E2F-0F34-4BBE-9423-27CC8239CFC6}|LambdaGenerics-8.1C.csproj|solutionrelative:account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Account.cs",
+              "DocumentMoniker": "D:\\Deakin Programs\\sit232\\LambdaGenerics-8.1C\\Account.cs",
+              "RelativeDocumentMoniker": "Account.cs",
+              "ToolTip": "D:\\Deakin Programs\\sit232\\LambdaGenerics-8.1C\\Account.cs",
+              "RelativeToolTip": "Account.cs",
+              "ViewState": "AQIAAD0AAAAAAAAAAAAcwFIAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T11:51:01.03Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MyStack.cs",
+              "DocumentMoniker": "D:\\Deakin Programs\\sit232\\LambdaGenerics-8.1C\\MyStack.cs",
+              "RelativeDocumentMoniker": "MyStack.cs",
+              "ToolTip": "D:\\Deakin Programs\\sit232\\LambdaGenerics-8.1C\\MyStack.cs",
+              "RelativeToolTip": "MyStack.cs",
+              "ViewState": "AQIAAFkAAAAAAAAAAAAuwHEAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T11:47:42.867Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Tester.cs",
+              "DocumentMoniker": "D:\\Deakin Programs\\sit232\\LambdaGenerics-8.1C\\Tester.cs",
+              "RelativeDocumentMoniker": "Tester.cs",
+              "ToolTip": "D:\\Deakin Programs\\sit232\\LambdaGenerics-8.1C\\Tester.cs",
+              "RelativeToolTip": "Tester.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAABOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T11:46:57.558Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

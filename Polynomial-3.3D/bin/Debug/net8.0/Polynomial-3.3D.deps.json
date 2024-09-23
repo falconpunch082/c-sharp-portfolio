@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Polynomial-3.3D/1.0.0": {
+        "runtime": {
+          "Polynomial-3.3D.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Polynomial-3.3D/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
